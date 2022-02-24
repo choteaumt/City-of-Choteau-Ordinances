@@ -1,0 +1,12 @@
+name: imgcmp
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Weekly build
+jobs:
+  imgcmp:
+    if: ${{ startsWith(github.head_ref, 'actions/imgcmp/') != true }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: 9sako6/imgcmp@v2.0.0
+        with:
+          token: ${{ secrets.IMGCMP_ACCESS_TOKEN }}
