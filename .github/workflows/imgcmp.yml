@@ -2,7 +2,7 @@ name: imgcmp
 on:
   schedule:
     - cron: "0 0 * * 1" # Weekly build
-   workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   imgcmp:
