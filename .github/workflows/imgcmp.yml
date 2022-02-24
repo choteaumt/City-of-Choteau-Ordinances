@@ -2,6 +2,8 @@ name: imgcmp
 on:
   schedule:
     - cron: "0 0 * * 1" # Weekly build
+   workflow_dispatch:
+
 jobs:
   imgcmp:
     if: ${{ startsWith(github.head_ref, 'actions/imgcmp/') != true }}
