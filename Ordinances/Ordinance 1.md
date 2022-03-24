@@ -22,10 +22,10 @@ It is hereby declared unlawful and a misdemeanor to in any matter alter, mutilat
 
 Section 5.
 
-This ordinance shall be posted as herein provided, and in addition thereto shall be published twice in the "Choteau Acantha", a newspaper published at Choteau, Mont., and shall take effect and be in force from and after its passage and approval and posting according to law.
+This ordinance shall be posted as herein provided, and in addition thereto shall be published twice in the "[Choteau Acantha](https://choteauacantha.com)", a newspaper published at Choteau, Mont., and shall take effect and be in force from and after its passage and approval and posting according to law.
 
 
-Passed by vote of the ayes and nays this 5th day of MAy , 1913. Aye, Hodgskiss, Upman and Gorham. No, none.
+Passed by vote of the ayes and nays this 5th day of May, 1913. Aye, Hodgskiss, Upman and Gorham. No, none.
 
 Approved this 5th. day of May, 1913.
 
